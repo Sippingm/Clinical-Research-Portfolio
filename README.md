@@ -1,28 +1,77 @@
-# Clinical Research Portfolio – Dr. Marius Sipping, PhD, CCRP  
+# Clinical Research Portfolio – Marius Sipping  
 
-This repository showcases my competencies and applied experience in **clinical trial operations**, combining hands-on project work (protocol reviews, feasibility assessments, SOW analyses, site start-up) with a strong academic foundation in pharmacology, oncology, and translational research.  
+I am a Certified Clinical Research Professional transitioning from 10+ years of preclinical research in oncology, autoimmune, and infectious diseases into clinical research. I have hands-on experience with ICH-GCP, protocol review, site evaluation, feasibility assessments, site selection workflows, SSU operations, and regulatory documentation.
 
-## 📑 Contents  
+My background includes over 15 peer-reviewed publications, grant-funded projects, and extensive laboratory expertise spanning molecular biology, pharmacology, and biotechnology. I am fluent in English and French, with strong data analysis skills and experience collaborating across international research environments.
 
-1. **Protocols** – Annotated reviews of Phase I–III study protocols (e.g., GZOA Part B).  
-2. **Feasibility** – Site Feasibility Questionnaire (FQ) analyses and templates.  
-3. **SOW** – Statement of Work (SOW) reviews including scope, budget, and deliverables.  
-4. **SSU & RegDocs** – Start-up trackers, IRB/EC packages, and regulatory documentation.  
-5. **Monitoring** – Checklists and tools for start-up, routine, and close-out monitoring visits.  
-6. **Publications** – Peer-reviewed articles and conference presentations (links via ResearchGate/DOI).  
+Current Focus: Clinical Trial Operations • SSU • Protocol Analysis • Feasibility • Monitoring • Regulatory Compliance 
 
-## 🛠️ Tools & Systems  
-- **EDC/CTMS:** DATATRACK, Medidata Rave, Veeva Vault  
-- **Regulatory Frameworks:** ICH-GCP, FDA 21 CFR Part 11, TPD  
-- **Documentation:** Protocols, IBs, ICFs, SOWs, FQs, Reg Binders  
+## Project: GZOA Part B Study - Site Activation & Feasibility
 
-## 🌍 Therapeutic Areas  
-- Metabolic & Liver Disease (*NAFLD, PNPLA3 genotype studies*)  
-- Oncology (*anticancer compounds, breast, prostate, liver cancer models*)  
-- Immunology & Infectious Disease  
+### 1. Protocol Dissection & Comprehension
+Activity: Conducted an in-depth review and presentation of the GZOA Part B study protocol.
 
-## 📌 Note  
-All documents in this repository are **educational portfolio samples**. Sensitive information has been anonymized to comply with **confidentiality and data protection standards**.
+Skills Demonstrated:
+
+Ability to critically analyze a clinical study protocol.
+
+Identified key elements per discipline: eligibility criteria, endpoints, visit schedules, and safety reporting.
+
+Understanding of Phase I study considerations and requirements.
+
+### 2. Feasibility Questionnaire (FQ) Assessment
+Activity: Reviewed and assessed site-specific Feasibility Questionnaires to determine site selection readiness.
+
+Skills Demonstrated:
+
+Evaluated site capabilities, patient population, and resources against protocol requirements.
+
+Made data-driven recommendations on site acceptability.
+
+Applied Phase I-specific feasibility criteria.
+
+### 4. Site Selection & Assignment (GZOA Part B)
+
+Activity: Reviewed and documented operational insights for 10 assigned sites.
+
+Skills Demonstrated: 
+Mapped all PI assignments, estimated site activation timelines, and identified potential bottlenecks.
+
+Demonstrated understanding of site performance metrics and early‑phase study considerations.
+
+
+### 5. Statement of Work (SOW) Review
+Activity: Analyzed the Study Statement of Work to understand study timelines, deliverables, and budget considerations.
+
+Skills Demonstrated: Ability to interpret contractual and operational study plans.
+
+### 6. Regulatory Documentation & SSU Tracker Management
+Activity: Prepared for the collection and review of essential regulatory documents required for IRB submission and site activation.
+
+Skills Demonstrated:
+
+Knowledge of the essential documents listed in the Regulatory Binder Checklist.
+
+Understanding the process of creating and maintaining an SSU Tracker to monitor document collection from PI, Sub-Is, CRCs, and lab directors.
+
+Awareness of how regulatory document delays impact site activation timelines.
+
+
+## Core Clinical Research Competencies
+Study Start-Up (SSU): Site Evaluation, Feasibility Assessments, Site Selection, Regulatory Document Collection, IRB Submission Preparation.
+
+Protocol & Document Mastery: Protocol Review, Statement of Work (SOW) Analysis, Feasibility Questionnaire (FQ) Assessment.
+
+Regulatory Knowledge: ICH-GCP Guidelines, Understanding of Essential Document Binder ("Reg Pack").
+
+Project Management: SSU Tracker creation and management to drive site activation timelines.
+
+Tools & Systems: **EDC/CTMS:** DATATRACK, Medidata Rave, Veeva Vault 
+
+
+_This portfolio is a live document and will be updated with new projects and certifications. Thank you for your interest in my clinical research journey._
+
+
 
 
 
